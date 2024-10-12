@@ -1,4 +1,3 @@
-
 # E-commerce Frontend Application - ReactJS
 
 This project is a frontend implementation of an online shopping platform using ReactJS. It provides users with the ability to browse, filter products, and mark items as favorites.
@@ -12,7 +11,7 @@ This project is a frontend implementation of an online shopping platform using R
 
 ## Live Deployment
 
-The application is live and can be accessed via this link: [E-commerce Frontend Live]()
+The application is live and can be accessed via this link: [E-commerce Frontend Live](https://appscrip-task-suyash-five.vercel.app/)
 
 ## About the Developer
 
